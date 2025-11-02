@@ -1,0 +1,12 @@
+package mergesort
+
+version     = 0.7.1
+authors     = "knight_of_calculus"
+maintainers = "knight_of_calculus"
+sourceloc   = "github.com/knight-of-calculus/proving_mergesort.git"
+readme      = "github.com/knight-of-calculus/proving_mergesort/blob/main/README.md"
+license     = "github.com/knight-of-calculus/proving_mergesort/blob/main/LICENSE"
+brief       = "формально верифицированный алгоритм сортировки слиянием"
+-- выступление на TechDay ВСК 01/11/2025
+homepage    = ""
+--langversion = 0.7.0 -- разработано на Idris 2, version 0.7.0-562ef55a3
